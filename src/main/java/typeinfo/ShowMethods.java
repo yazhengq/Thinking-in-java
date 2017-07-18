@@ -54,7 +54,8 @@ public class ShowMethods {
       print("No such class: " + e);
     }
   }
-} /* Output:
+}
+/* Output:
 public static void main(String[])
 public native int hashCode()
 public final native Class getClass()
