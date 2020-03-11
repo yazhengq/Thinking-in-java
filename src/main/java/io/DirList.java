@@ -8,7 +8,7 @@ import java.util.*;
 
 public class DirList {
   public static void main(String[] args) {
-    File path = new File(".");
+    File path = new File("./Thinking-in-java");
     String[] list;
     if(args.length == 0)
       list = path.list();

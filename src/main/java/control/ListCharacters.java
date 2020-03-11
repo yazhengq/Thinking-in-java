@@ -3,6 +3,9 @@ package control; /* Added by Eclipse.py */
 // Demonstrates "for" loop by listing
 // all the lowercase ASCII letters.
 
+/**
+ * 输出小写的a b c ...
+ */
 public class ListCharacters {
   public static void main(String[] args) {
     for(char c = 0; c < 128; c++)
